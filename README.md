@@ -1,1 +1,44 @@
 # LA-CASA-DE-PAPEL-UPDATE
+
+<item>
+<title>[COLOR silver][B] LÁ CASA DE PAPEL 1° TEMPORADA [/COLOR][/B][COLOR yellow]   FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:353CEB641BE8EF14AFE549DF77A0C2E6DC880252$nome=LÁ CASA DE PAPEL EP1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:66f7b4c640e7319c42566b0ca9f3f1fb72df0c13$nome=LÁ CASA DE PAPEL EP2</link> 
+<thumbnail>https://www.themoviedb.org/t/p/original/yf5HNZF1LFW5AMbjQuaZlrzU1Iu.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Na Série Torrent La Casa de Papel 1ª e 2ª Temporada (2017-2018) 720p e 1080p Dublado Download. Um grupo de ladrões muito peculiar assalta uma Fábrica de Moeda e Timbre para realizar o assalto mais perfeito na história da Espanha e levar para casa 2.400 milhões de euros. Oito habilidosos ladrões se trancam na Casa da Moeda da Espanha com o ambicioso plano de realizar o maior roubo da história e levar com eles mais de 2 bilhões de euros. Para isso, a gangue precisa lidar com as dezenas de pessoas que manteve como refém, além dos agentes da força de elite da polícia, que farão de tudo para que a investida dos criminosos fracasse.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] LÁ CASA DE PAPEL 2° TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:82B8CFFD37CC7A37C08942C2774BAB5FAA003AF2$nome=LÁ CASA DE PAPEL EP 1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:352102879196ABE8A721EFB9E70CF5A58CAD05C7$nome=LÁ CASA DE PAPEL EP 2</link>
+<thumbnail>https://i.pinimg.com/474x/86/3a/4d/863a4d68692d62003861b194b70b11aa.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Na Série Torrent La Casa de Papel 1ª e 2ª Temporada (2017-2018) 720p e 1080p Dublado Download. Um grupo de ladrões muito peculiar assalta uma Fábrica de Moeda e Timbre para realizar o assalto mais perfeito na história da Espanha e levar para casa 2.400 milhões de euros. Oito habilidosos ladrões se trancam na Casa da Moeda da Espanha com o ambicioso plano de realizar o maior roubo da história e levar com eles mais de 2 bilhões de euros. Para isso, a gangue precisa lidar com as dezenas de pessoas que manteve como refém, além dos agentes da força de elite da polícia, que farão de tudo para que a investida dos criminosos fracasse.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] LÁ CASA DE PAPEL 3° TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VRBMEZBS6GIVGJXWU44UZIYXI2LWAD6H</link>
+<thumbnail>https://br.web.img3.acsta.net/pictures/20/04/07/19/29/2754760.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>a princípio Oito habilidosos ladrões se trancam na Casa da Moeda da Espanha com o ambicioso plano de realizar o maior roubo da história e levar com eles mais de 2 bilhões de euros. a princípio Para isso, a gangue precisa lidar com as dezenas de pessoas que manteve como refém, além dos agentes da força de elite da polícia, que farão de tudo para que a investida dos criminosos fracasse.</info> 
+</item>
+
+<item> 
+<title>[COLOR silver][B] LÁ CASA DE PAPEL 4° TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3feb5ea1f76fa210ba9a0ab01207865cb824a424</link>
+<thumbnail>https://pipocasclub.com.br/wp-content/uploads/2020/03/la-casa-de-papel.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> La Casa de Papel 4ª Temporada Torrent Dublado – A quarta temporada de La Casa de Papel começa frenética. O Professor acredita que Lisboa foi morta. Rio e Tóquio acabam explodindo um tanque do exército. Enquanto isso, Nairóbi está lutando para sobreviver. Para intensificar as coisas, um novo inimigo está surgindo, e irá dificultar os planos do grupo de assaltantes.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B]  LÁ CASA DE PAPEL 5° TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:X4II6HCQFAPW63K5Q2HGH5UXYVAVV3FP$nome=PARTE 1 5º TEMPORADA</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EADBWD7AM6VCWQO7PC7C25WENZEUIHNH$nome=PARTE 2 5º TEMPORADA</link>
+<thumbnail>https://cdn.folhape.com.br/img/pc/1100/1/dn_arquivo/2021/08/pt-br-lcdp-s5-main-vertical-rgb-pre-2.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Na série La Casa de Papel 5ª Temporada WEB-DL 720p/1080p Dual Áudio, Na série La Casa de Papel, da Netflix, nove habilidosos ladrões (Nairóbi, Berlim, Tókyo, Rio, Helsinki, Oslo, Professor, Denver e Moscou) se trancam na Casa da Moeda da Espanha, com o ambicioso plano de realizar o maior roubo da história. Possuindo a meta de imprimir 2,4 bilhões de euros, a gangue precisará lidar com as dezenas de pessoas que foram mantidas reféns e com os agentes da força de elite da polícia, que farão de tudo para que a investida dos criminosos fracasse. No processo, novos conflitos passam a surgir, precisando o grupo se preocupar, além dos problemas com a força policial, com os problemas entre eles próprios, que passam a ameaçar a natureza da missão. O elenco é composto por Álvaro Morte, Úrsula Corberó, Itzar Ituño, Pedro Alonso, Alba Flores, Miguel Herrán, Jaime Lorente, Esther Acebo e outros.</info>
+</item>
